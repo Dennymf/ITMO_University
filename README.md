@@ -4,7 +4,6 @@
 * [Базовый курс C++](https://github.com/Dennymf/ITMO_University/tree/main/cpp_base)
 * [Дискретная математика](https://github.com/Dennymf/ITMO_University/tree/main/discrete_math)
 * [Функциональное программирование](https://github.com/Dennymf/ITMO_University/tree/main/functional_programming)
-* [Java-advanced](https://github.com/Dennymf/ITMO_University/tree/main/java_advanced)
 * [Java-intro](https://github.com/Dennymf/ITMO_University/tree/main/java_intro)
 * [Математическая логика](https://github.com/Dennymf/ITMO_University/tree/main/math_logic)
 * [Методы оптимизации](https://github.com/Dennymf/ITMO_University/tree/main/metopt_labs)
