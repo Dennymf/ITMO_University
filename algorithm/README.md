@@ -18,7 +18,7 @@
 
 # Лабораторная 2.2 Дерево поиска
 * [Условие](https://github.com/Dennymf/ITMO_University/blob/main/algorithm/2-2.%20Binary%20search%20tree/2.2.pdf)
-* [Решения](https://github.com/Dennymf/ITMO_University/tree/main/algorithmn/2-2.%20Binary%20search%20tree)
+* [Решения](https://github.com/Dennymf/ITMO_University/tree/main/algorithm/2-2.%20Binary%20search%20tree)
 
 # Лабораторная 2.3 Запросы на деревьях
 * [Условие](https://github.com/Dennymf/ITMO_University/blob/main/algorithm/2-3.%20LCA%2C%20link-cut%2C%20euler-tour/2.3.pdf)
@@ -37,13 +37,13 @@
 * [Решения](https://github.com/Dennymf/ITMO_University/tree/main/algorithm/3-3.%20Algorithms%20on%20strings)
 
 # Лабораторная 4.1 Паросочетания
-* [Условие](https://github.com/Dennymf/ITMO_University/blob/main/algorithm/4-1.%20Matchings/3.3.pdf)
+* [Условие](https://github.com/Dennymf/ITMO_University/blob/main/algorithm/4-1.%20Matchings/4.1.pdf)
 * [Решения](https://github.com/Dennymf/ITMO_University/tree/main/algorithm/4-1.%20Matchings)
 
 # Лабораторная 4.2 Потоки
-* [Условие](https://github.com/Dennymf/ITMO_University/blob/main/algorithm/4-2.%20Streams/3.3.pdf)
+* [Условие](https://github.com/Dennymf/ITMO_University/blob/main/algorithm/4-2.%20Streams/4.2.pdf)
 * [Решения](https://github.com/Dennymf/ITMO_University/tree/main/algorithm/4-2.%20Streams)
 
 # Лабораторная 4.3 Математика, криптография
-* [Условие](https://github.com/Dennymf/ITMO_University/blob/main/algorithm/4-3.%20Math%2C%20Cryptography/3.3.pdf)
+* [Условие](https://github.com/Dennymf/ITMO_University/blob/main/algorithm/4-3.%20Math%2C%20Cryptography/4.3.pdf)
 * [Решения](https://github.com/Dennymf/ITMO_University/tree/main/algorithm/4-3.%20Math%2C%20Cryptography)
