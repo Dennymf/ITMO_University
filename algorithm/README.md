@@ -1,4 +1,4 @@
-Лабораторные работы по алгоритмам
+# Лабораторные работы по алгоритмам
 
 # Лабораторная 1.1 Сортировки, куча, бинпоиск
 * [Условие](https://github.com/Dennymf/ITMO_University/blob/main/algorithm/1-1.%20Sort%2C%20bin_search%2C%20heap/1.1.pdf)
