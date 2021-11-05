@@ -1,1 +1,0 @@
-run.bat RU RU "H:\TEMP\java\java-advanced-private\test\_current-repo\java-solutions\ru\ifmo\rain\mozhevitin\i18n\input" out.html 2>x
